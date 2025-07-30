@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hardware_settings_info timeStamp="2025/07/28 00:31:37">
+	<systemInfo OS="Microsoft Windows 10  (Build 26100)" OSCompatibility="none" totalMemory="8221748" winPlatformID="2" winMajorVersion="10" winMinorVersion="0" winBuildNumber="26100" hasBattery="true" isRunningOnSteamDeck="false" rating="4" />
+	<cpu name="Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz" speed="2400" processors="8" processorStride="1" hyperThreading="true" sse3Supported="true" avxSupported="true" rating="4" />
+	<graphics_card name="NVIDIA GeForce GTX 1650" directx_version="12" driver="NVIDIA 56636, r566_31" vendorId="0x10DE" deviceId="0x1F91" memory="3935" rating="1">
+		<outputMonitor description="\\.\DISPLAY1" index="1" windows_index="1">
+			<resolution width="1024" height="768">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1152" height="864">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1280" height="720">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1280" height="768">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1280" height="800">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1280" height="960">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1280" height="1024">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1360" height="768">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1366" height="768">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1400" height="1050">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1440" height="900">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1600" height="900">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1680" height="1050">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+			<resolution width="1920" height="1080">
+				<refreshRate numerator="111030000" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138641358" denominator="2312960" interlaced="false" />
+				<refreshRate numerator="138780000" denominator="2312960" interlaced="false" />
+			</resolution>
+		</outputMonitor>
+	</graphics_card>
+	<graphics_card name="Intel(R) UHD Graphics 630" directx_version="12" driver="Intel" vendorId="0x8086" deviceId="0x3E9B" memory="128" rating="1" />
+	<graphics_card name="Microsoft Basic Render Driver" directx_version="12" driver="" vendorId="0x1414" deviceId="0x008C" memory="0" rating="1" />
+</hardware_settings_info>
